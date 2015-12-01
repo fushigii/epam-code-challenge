@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: epam-code-challenge
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo T430
+Implementation-Vendor-Id: com.epam.code
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
